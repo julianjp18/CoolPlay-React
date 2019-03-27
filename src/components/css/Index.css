@@ -1,0 +1,122 @@
+
+.cwhat-is{
+  background-color: #0097A7;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+}
+
+.cwhat-is h2{
+  font-size: 3.56rem;
+  line-height: 110%;
+  margin: 2.3733333333rem 0 1.424rem 0;
+}
+
+.cwhat-is p{
+  margin: 0 4em;
+}
+
+.button-membership{
+  background: #009688;
+  margin-bottom: 1em;
+  font-size: 2rem;
+  padding: .4em 1em;
+  color: white;
+  border-radius: 7px;
+  box-shadow: 0 3px 10px rgba(0,0,0,.23), 0 3px 10px rgba(0,0,0,.16);
+}
+
+.button-membership:hover{
+  color: black;
+  -webkit-transition: -webkit-box-shadow .25s;
+  transition: -webkit-box-shadow .25s;
+  transition: box-shadow .25s;
+  transition: box-shadow .25s, -webkit-box-shadow .25s;
+}
+
+.top-info h2{
+  font-size: 3.56rem;
+  line-height: 110%;
+  margin: 2.3733333333rem 0 1.424rem 0;
+}
+
+.image-carousel{
+  width: 50%
+}
+
+.movies-recents h4{
+  font-size: 2.28rem;
+  line-height: 110%;
+  margin: 1.52rem 0 .912rem 0;
+}
+
+.movies-recents h4 a:hover{
+  color: #009688;
+}
+
+.left-align{
+  margin-left: 5em;
+}
+
+
+.btn-grad{
+  font-size: 2rem;
+  padding: .2em 1em;
+  color: white;
+  border-radius: 7px;
+  box-shadow: 0 3px 10px rgba(0,0,0,.23), 0 3px 10px rgba(0,0,0,.16);
+}
+
+.grad1{
+  background-color: #7B1FA2; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to right, #7B1FA2, #7C4DFF);
+}
+
+.grad1:hover{
+  color: white;
+  text-decoration: none;
+  background-color: #7B1FA2; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to right,#7C4DFF ,#7B1FA2 );
+  transition: background-image 2s;
+}
+
+.grad2{
+  background-color: #388E3C; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to right, #388E3C, #CDDC39);
+}
+
+.grad2:hover{
+  color: white;
+  text-decoration: none;
+  background-color: #388E3C; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to right,#CDDC39 ,#388E3C );
+  transition: background-image 2s;
+}
+
+.grad3{
+  
+  background-color: #303F9F; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to right, #303F9F, #448AFF);
+}
+
+.grad3:hover{
+  color: white;
+  text-decoration: none;
+  background-color: #303F9F; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to right,#448AFF ,#303F9F );
+}
+
+.grad4{
+  background-color: #F57C00; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to right, #F57C00 , #FFC107);
+}
+
+.grad4:hover{
+  color: white;
+  text-decoration: none;
+  background-color: #F57C00; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to right, #FFC107 ,#F57C00);
+}
+
+.divider{
+  border: 1px solid #009688;
+}

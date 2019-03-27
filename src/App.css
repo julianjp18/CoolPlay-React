@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Noto+Sans+SC');
+
+body{
+  font-family: 'Noto Sans SC', 'Lato', sans-serif;
+  background: #141414;
+  color: white;
+}
+
+

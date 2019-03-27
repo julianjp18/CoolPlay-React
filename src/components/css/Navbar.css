@@ -1,0 +1,23 @@
+.navbar{
+  background-color: rgba(0,0,0,.8);
+}
+
+.navbar-light .navbar-nav .nav-link{
+  color: white;
+  font-size: 1;
+}
+.navbar-light .navbar-nav .nav-link:hover:not(.login), .navbar-light .navbar-brand:hover{
+  color:#4dd0e1;
+}
+
+h1, .navbar-brand {
+  font-weight: 700;
+}
+.navbar-light .navbar-brand{
+  color: white;
+  font-size: 2em;
+}
+
+.login{
+  background: #4dd0e1;
+}
